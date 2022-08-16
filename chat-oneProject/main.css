@@ -638,6 +638,7 @@ font-family: 'Kanit', sans-serif;
 #check-form{
     margin-top: 0;
 }
+
 input[type=button] {
     background-color: rgb(25, 110, 185);
     padding: 1.2em 0;
@@ -657,6 +658,12 @@ span{
 .p-tag-color{
     color: #000;
     font-size: 'Kanit',sans-serif;
+}
+
+.payment-text h2{
+    font-size: 2.5rem;
+    padding-top: 0.5em; 
+    color: #fff;
 }
 /* payment-section-ends */
 

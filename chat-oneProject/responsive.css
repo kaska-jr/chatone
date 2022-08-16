@@ -212,9 +212,9 @@
             border-radius: 2rem;
             cursor: pointer;
         }
-        /* hero-text-ends */
+/* hero-text-ends */
 
-        /* hero-image-begins */
+/* hero-image-begins */
 .background{
     min-width: 350px;
 }
@@ -242,14 +242,18 @@
     width: 320px;
     border: 2px solid red;
 }
+.payment-text h2{
+    font-size: 2em;
+}
 }
 
-@media screen and (max-width:410px){
-        /* hero-container-3-begins */
+@media screen and (max-width:410px)
+{
+/* hero-container-3-begins */
 .hero-container-3-text h2 {
     font-size: 2rem;
     line-height: 2.5rem;
-            }
+}
 .hero-container-3 {
     height: 580px;
 }
@@ -262,7 +266,6 @@
     justify-content: center;
     border-radius: 50%;
     position: relative;
-    
 }
 .circle2 {
     min-width: 150px;
@@ -297,6 +300,9 @@
     min-height: 45px;
 }
  /* hero-container-3-ends */
+.payment-text h2 {
+    font-size: 2em;
+}
 }
 
 
