@@ -177,6 +177,9 @@
 #check-form {
     display: inline-block;
 }
+.payment-text h2 {
+    font-size: 1.8em;
+}
 /* payment-section-ends */
 }
 
@@ -243,7 +246,7 @@
     border: 2px solid red;
 }
 .payment-text h2{
-    font-size: 2em;
+    font-size: 1.8em;
 }
 }
 
@@ -301,7 +304,7 @@
 }
  /* hero-container-3-ends */
 .payment-text h2 {
-    font-size: 2em;
+    font-size: 1.8em;
 }
 }
 
